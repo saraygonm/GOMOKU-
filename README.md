@@ -1,2 +1,2 @@
-# POOB
-Aqui se encuentran los diferentes laboratorios en POOB realizados durante el semestre
+# POOB LAB01
+Este es el primer labporatorio de POOB 
