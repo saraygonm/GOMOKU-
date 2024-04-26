@@ -1,7 +1,7 @@
 # GomokuPOOB
 
 ## Descripción
-GomokuPOOs es una aplicación Java que implementa el juego Gomoku (también conocido como 'Cinco en línea' o 'Gobang') con funcionalidades avanzadas y opciones de personalización. El juego está diseñado para dos jugadores que compiten por conectar cinco fichas del mismo color en cualquier dirección en un tablero de 15x15.
+GomokuPOOBs es una aplicación Java que implementa el juego Gomoku (también conocido como 'Cinco en línea' o 'Gobang') con funcionalidades avanzadas y opciones de personalización. El juego está diseñado para dos jugadores que compiten por conectar cinco fichas del mismo color en cualquier dirección en un tablero de 15x15.
 
 ## Características principales
 - **Tablero personalizable**: Los jugadores pueden elegir entre tres tamaños de tablero: 10x10, 15x15 y 20x20.
