@@ -1,4 +1,4 @@
-# GomokuPOOs
+# GomokuPOOB
 
 ## Descripción
 GomokuPOOs es una aplicación Java que implementa el juego Gomoku (también conocido como 'Cinco en línea' o 'Gobang') con funcionalidades avanzadas y opciones de personalización. El juego está diseñado para dos jugadores que compiten por conectar cinco fichas del mismo color en cualquier dirección en un tablero de 15x15.
@@ -31,6 +31,6 @@ La aplicación sigue una serie de pautas de diseño para garantizar su usabilida
 - **Manejo de excepciones**: Se implementa un sistema de manejo de excepciones con una clase dedicada para gestionar las excepciones propias del juego, junto con un registro de errores para los programadores.
 
 ## Integrantes del equipo:
-- Saray Mendivelso []
-- Andres Rodriguez []
+- [Saray Mendivelso](https://github.com/saraygonm) 
+- [Andres Rodriguez](https://github.com/andres3455)
 
